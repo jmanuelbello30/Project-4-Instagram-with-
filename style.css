@@ -1,0 +1,175 @@
+img{
+  width: 100%;
+}
+
+header{
+  margin-top: -5px;
+}
+
+@media (max-width: 764px){
+  body {
+    width: fit-content; 
+  }
+}
+
+p{
+  margin-left: 15px;
+  margin-right: 20px;
+}
+
+.Instagram-head{
+  font-family: 'Lobster', cursive;
+  margin-left: 150px;
+  font-size: 30px;
+}
+.fa-instagram{
+  padding: 10px;
+  float: left;
+}
+
+.menu-options{
+  position: relative;
+}
+
+.fa-camera{
+  border: 1px solid #dcdee0;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.fa-map-marker-alt{
+  font-size: 15px;
+  border: 1px solid #dcdee0;
+  padding: 4px;
+  border-radius: 5px;
+}
+
+.form-control{
+  height: 20px;
+  border: 1px solid gray;
+}
+
+.no-padding{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.height-static{
+  height: 315px;
+  overflow: hidden;
+}
+
+.menu-drop.dropdown-menu{
+  right: 0;
+  left: auto;
+}
+
+.caro-mod.carousel-indicators{
+  bottom: auto;
+  top: -50px;
+}
+
+.caro-mod.carousel-indicators li{
+  text-indent: 0px;
+}
+
+.space{
+  padding: 40px;
+}
+
+.box-head{
+  margin-top: 30px;
+  padding-top: 5px;
+  background: white;
+}
+
+.box-theme{
+  width: 600px;
+  margin: auto;
+  padding-bottom: 50px;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+
+.basic-post{
+  background: white;
+}
+
+.title-page{
+  font-size: 30px;
+  background: white;
+  margin: 0;
+  padding: 10px;
+  padding: 15px;
+}
+
+.head-title{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.head-left{
+  float: left;
+  width: 95%;
+  margin: -15px;
+}
+
+.head-post{
+  padding: 10px;
+}
+
+.head-right{
+  text-align: center;
+  float: right;
+  width: 5%;
+}
+
+.image-post{
+  width: 100%;
+  overflow: hidden;
+  height: 500px;
+}
+
+.likes{
+  background: white;
+  padding-left: 15px;
+  padding-top: 5px;
+  height: 35px;
+}
+
+.description-post{
+  background: white;
+  margin-top: 0px;
+  padding-right: 0px;
+  height: 75px;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.icon-heart{
+  background: white;
+  padding-left: 15px;
+  padding-bottom: 39px;
+  height: 35px;
+  width: 50px;
+  float: left;
+}
+
+.icon-option{
+  padding-right: 20px;
+  padding-bottom: 10px;
+  background: white;
+  float: right;
+}
+
+.comment{
+  background: white;
+  margin-left: 50px;
+  padding-bottom: 1px;
+}
+
+.carousel-inner{
+  background: #edebeb;
+}
